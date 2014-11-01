@@ -1,0 +1,26 @@
+#messageContainer {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+.stuck.sendButton {
+		background: url(../images/sendpress.png) top left no-repeat;
+		background: url(../images/send.png) top left no-repeat;
+		width: 48px;
+		padding: 0;
+		margin: 0px;
+		height: 48px;
+		position: absolute;
+		bottom: 3px;
+		right: 6px;
+}
+
+.stuck.sendButton.selected {
+		background: url(../images/sendpress.png) top left no-repeat;
+}
+
+#mojo-scene-main-scene-scroller {
+	background-color:#ffffff;
+}

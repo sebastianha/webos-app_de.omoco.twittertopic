@@ -1,0 +1,9 @@
+{
+	"id": "de.omoco.twittertopic",
+	"version": "1.0.2",
+	"vendor": "twittertopic.omoco.de",
+	"type": "web",
+	"main": "index.html",
+	"title": "TwitterTopic",
+	"icon": "icon.png"
+}
