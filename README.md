@@ -30,6 +30,10 @@ webOS App – TwitterTopic (de.omoco.twittertopic)
 ![Screenshot](/screenshots/screenshot1.png?raw=true "Screenshot")
 ![Screenshot](/screenshots/screenshot2.png?raw=true "Screenshot")
 
+## Video
+
+http://www.youtube.com/watch?v=NI26BU_0av8
+
 ## Description
 
 #### English
